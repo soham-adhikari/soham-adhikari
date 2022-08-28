@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @soham-adhikari
+- 👋 Hi, I’m Soham Adhikari
 - 👀 I’m interested in Data Science, Algorithmic Trading and Cloud Computing among tons of other things
 - 🌱 I’m currently pursuing Computer Science and Engineering in VIT, Vellore
 - 💞️ I’m looking to collaborate on academic projects and anything requiring knowledge on the latest trends in Machine Learning
